@@ -1,4 +1,4 @@
-### Greetings! It's a plasure to receive you here! 
+### Greetings! It's a pleasure to receive you here! 
 I'm graduated in Information Systems at UNESP. I love cats and to build solutions to people problems.
 
 - 🔭 I’m currently working with Nest.js and Vue.js at Ez.devs.
